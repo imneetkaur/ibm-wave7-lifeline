@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2667c84-6546-4e42-8da4-f38acb289d2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/config-server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/config-server/src/main/java/com/stackroute/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/config-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/config-server/src/test/java/com/stackroute/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/eureka-server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/eureka-server/src/main/java/com/stackroute/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/eureka-server/src/test/java/com/stackroute/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/zuul-api/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/zuul-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/zuul-api/src/main/java/com/stackroute/zuulapi/ZuulApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/zuul-api/src/main/java/com/stackroute/zuulapi/pre/SimpleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/zuul-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lifeline/ibm-wave7-lifeline/zuul-api/src/test/java/com/stackroute/zuulapi/ZuulApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/config-server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/config-server/src/main/java/com/stackroute/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/config-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/config-server/src/test/java/com/stackroute/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/eureka-server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/eureka-server/src/main/java/com/stackroute/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/eureka-server/src/test/java/com/stackroute/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/zuul-api/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/zuul-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/zuul-api/src/main/java/com/stackroute/zuulapi/ZuulApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/zuul-api/src/main/java/com/stackroute/zuulapi/pre/SimpleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/zuul-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Online_Fashion_Retail/ibm-wave7-online-fashion-retail/zuul-api/src/test/java/com/stackroute/zuulapi/ZuulApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/config-server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/config-server/src/main/java/com/stackroute/configserver/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/config-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/config-server/src/test/java/com/stackroute/configserver/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/eureka-server/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/eureka-server/src/main/java/com/stackroute/eurekaserver/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/eureka-server/src/test/java/com/stackroute/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/zuul-api/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/zuul-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/zuul-api/src/main/java/com/stackroute/zuulapi/ZuulApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/zuul-api/src/main/java/com/stackroute/zuulapi/pre/SimpleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/zuul-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web_Knowledge_Generator/ibm-wave7-web-knowledge-generator/zuul-api/src/test/java/com/stackroute/zuulapi/ZuulApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopschallenge/encapsulationchallenge/src/com/stackroute/encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopschallenge/encapsulationchallenge/src/com/stackroute/encapsulation/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopschallenge/inheritancechallenge/src/com/stackroute/inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopschallenge/inheritancechallenge/src/com/stackroute/inheritance/Fiesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopschallenge/inheritancechallenge/src/com/stackroute/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../oopschallenge/inheritancechallenge/src/com/stackroute/inheritance/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css/mystyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/ForeignLang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/HeroImage.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/LearningLang1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/LearningLang2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/LearningLang3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/LearningLang4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/LearningLang5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/LearningLang6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/LearningLang7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../image/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../js/bootstrap.min.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QK6T3fCVbNRp3RlCAsFWec73m1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2667c84-6546-4e42-8da4-f38acb289d2a" name="Default Changelist" comment="" />
+      <created>1567506944785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567506944785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
